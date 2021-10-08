@@ -6,8 +6,8 @@ Created on Fri Oct  8 11:42:54 2021
 @author: Vineet Aggarwal - BITS ID: 2020MT13016
 """
 
-import matplotlib.pyplot as plt
-import numpy as np
+import matplotlib.pyplot as plt # BITS ID: 2020MT13016
+import numpy as np              # BITS ID: 2020MT13016
 
 A=5                     #Amplitude - BITS ID: 2020MT13016
 t=np.arange(0,1,0.001)  #Time Domain - BITS ID: 2020MT13016
